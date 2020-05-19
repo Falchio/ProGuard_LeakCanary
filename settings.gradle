@@ -1,0 +1,2 @@
+rootProject.name='ProGuard, MemoryLeak'
+include ':app'
